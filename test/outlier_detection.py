@@ -1,6 +1,15 @@
+import os
 import pandas as pd
 import numpy as np
 from scipy.stats import zscore
+
+cwd = os.getcwd()
+data_dir = os.path.join(cwd, 'data')
+
+payment_master_path = os.path.join(data_dir, 'payments_master.csv')
+fraud_case_master_path = os.path.join(data_dir, 'fraud_cases_master.csv')
+research_team_master_path = os.path.join(data_dir, 'research_team_master.csv')
+research_team_member_master_path = os.path.join(data_dir, 'research_team_member_master.csv')
 
 # Load the dataset
 try:

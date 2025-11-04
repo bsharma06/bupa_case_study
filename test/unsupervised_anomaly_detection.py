@@ -1,5 +1,4 @@
-# unsupervised_anomaly_detection.py
-
+import os
 import pandas as pd
 import numpy as np
 from sklearn.ensemble import IsolationForest
@@ -7,9 +6,17 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 
+cwd = os.getcwd()
+data_dir = os.path.join(cwd, 'data')
+
+payment_master_path = os.path.join(data_dir, 'payments_master.csv')
+fraud_case_master_path = os.path.join(data_dir, 'fraud_cases_master.csv')
+research_team_master_path = os.path.join(data_dir, 'research_team_master.csv')
+research_team_member_master_path = os.path.join(data_dir, 'research_team_member_master.csv')
+
 # Load the dataset
 try:
-    df_payments = pd.read_csv('payments_master.csv')
+    df_payments = pd.read_csv(payment_master_path)
 except FileNotFoundError:
     print("Error: payments_master.csv not found. Please ensure the file is in the correct directory.")
     exit()
