@@ -1,8 +1,6 @@
----
-
 # ABC HealthCare Case Study
 
-**Internal Audit – Payment Process at ABC HealthCare**  
+**Internal Audit – Payment Process at ABC HealthCare**
 **Leveraging Data Science and AI to Strengthen Payment Oversight**
 
 ---
@@ -60,7 +58,7 @@ Includes 2000 sample payment records with fields:
 - phone_number: Contact number for the company or submitter.
 - email: Contact email.
 
-### 2.  research_team_master.csv
+### 2. research_team_master.csv
 
 Includes:
 
