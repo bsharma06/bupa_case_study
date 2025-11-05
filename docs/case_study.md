@@ -142,8 +142,3 @@ Demonstrate how an AI tool (e.g., GPT) can:
 - **Presentation**: Max 10 slides for Group Internal Audit Leadership Team
 - **Files**: Include scripts, notebooks, apps, or tools used
 - **Documentation**: Explain your process, assumptions, and conclusions
-
-Identify the research teams with the highest spend
-Track volume and time trends by category and location
-average payment time by expense type, value and location;
-comparing each team spend against their budget.
