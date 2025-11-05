@@ -13,7 +13,7 @@ ABC HealthCare is a global pharmaceutical company specializing in cancer researc
 - **Centralized legal and finance services** managed by ABC HealthCare
 - **Payments team based in Thailand**, handling over 200,000 payment requests annually
 
-### 🔐 Payment Oversight Structure
+### Payment Oversight Structure
 
 | Invoice Amount | Submission Authoriser | Payment Authoriser |
 | -------------- | --------------------- | ------------------ |
