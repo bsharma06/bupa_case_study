@@ -1,11 +1,11 @@
-# 🏥 ABC HealthCare Case Study
+# ABC HealthCare Case Study
 
 **Internal Audit – Payment Process at ABC HealthCare**  
 **Leveraging Data Science and AI to Strengthen Payment Oversight**
 
 ---
 
-## 📘 Background
+## Background
 
 ABC HealthCare is a global pharmaceutical company specializing in cancer research. It operates with:
 
@@ -13,7 +13,7 @@ ABC HealthCare is a global pharmaceutical company specializing in cancer researc
 - **Centralized legal and finance services** managed by ABC HealthCare
 - **Payments team based in Thailand**, handling over 200,000 payment requests annually
 
-### 🔐 Payment Oversight Structure
+### Payment Oversight Structure
 
 | Invoice Amount | Submission Authoriser | Payment Authoriser |
 | -------------- | --------------------- | ------------------ |
@@ -21,7 +21,7 @@ ABC HealthCare is a global pharmaceutical company specializing in cancer researc
 | < $5,000       | Submitter's Manager   | Payment Manager    |
 | > $5,000       | Submitter's Director  | Payment Director   |
 
-### 🚨 Whistleblower Report Highlights
+### Whistleblower Report Highlights
 
 - Fraudulent invoices submitted by research teams
 - Invoices not matching claims
@@ -31,7 +31,7 @@ A preliminary investigation recommends a **comprehensive audit using advanced da
 
 ---
 
-## 📂 Dataset Overview
+## Dataset Overview
 
 You are provided with a `.zip` file containing 4 datasets:
 
@@ -90,7 +90,7 @@ Same structure as Payments Master, with an added `Fraud_flag` column:
 
 ---
 
-## 📋 Case Study Tasks
+## Case Study Tasks
 
 ### Section 1: Descriptive & Diagnostic Analytics
 
@@ -137,7 +137,7 @@ Demonstrate how an AI tool (e.g., GPT) can:
 
 ---
 
-## 📦 Submission Requirements
+## Submission Requirements
 
 - **Presentation**: Max 10 slides for Group Internal Audit Leadership Team
 - **Files**: Include scripts, notebooks, apps, or tools used
