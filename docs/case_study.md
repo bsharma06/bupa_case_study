@@ -1,7 +1,3 @@
-Absolutely! Here's the ABC HealthCare case study converted into clean, structured **Markdown format** for easy reading and editing:
-
----
-
 # 🏥 ABC HealthCare Case Study
 
 **Internal Audit – Payment Process at ABC HealthCare**  
@@ -62,7 +58,7 @@ Includes 2000 sample payment records with fields:
 - phone_number: Contact number for the company or submitter.
 - email: Contact email.
 
-### 2.  research_team_master.csv
+### 2. research_team_master.csv
 
 Includes:
 
@@ -76,7 +72,7 @@ Includes:
 - Item budget: budget associated with the item.
 - Comments: Additional notes or context.
 
-### 3. research_team_master.csv
+### 3. research_team_member_master.csv
 
 Includes:
 
@@ -146,3 +142,8 @@ Demonstrate how an AI tool (e.g., GPT) can:
 - **Presentation**: Max 10 slides for Group Internal Audit Leadership Team
 - **Files**: Include scripts, notebooks, apps, or tools used
 - **Documentation**: Explain your process, assumptions, and conclusions
+
+Identify the research teams with the highest spend
+Track volume and time trends by category and location
+average payment time by expense type, value and location;
+comparing each team spend against their budget.
