@@ -1,4 +1,4 @@
-# AI-Generated Audit Report: ABC HealthCare Payment Process
+# Audit Report: ABC HealthCare Payment Process
 
 ## 1. Executive Summary
 
