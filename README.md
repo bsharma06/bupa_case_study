@@ -72,7 +72,7 @@ Includes:
 - Item budget: budget associated with the item.
 - Comments: Additional notes or context.
 
-### 3. research_team_master.csv
+### 3. research_team_member_master.csv
 
 Includes:
 
